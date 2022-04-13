@@ -1,0 +1,9 @@
+{
+  "name": "betterplace-design-system",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/iz-podpolja/betterplace-design-system.git",
+  "author": "betterplace <developers@betterplace.org>",
+  "license": "Apache-2.0",
+  "private": false
+}
